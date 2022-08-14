@@ -1,0 +1,10 @@
+name: balcony-models
+
+dependencies:
+  - python=3.9
+  - numpy
+  - pandas
+  - matplotlib
+  - spacy
+  - nltk
+  - scikit-learn
