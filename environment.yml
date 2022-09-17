@@ -1,0 +1,13 @@
+name: balcony-models
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.7
+  - numpy
+  - pandas
+  - matplotlib
+  - spacy
+  - nltk
+  - scikit-learn

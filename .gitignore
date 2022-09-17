@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# data
+data/
+
+# experiments
+_test_umap.ipynb
